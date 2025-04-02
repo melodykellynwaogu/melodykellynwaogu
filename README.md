@@ -12,13 +12,13 @@ I'm a passionate Python developer who enjoys building efficient and scalable app
 
 ## 📊 GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melodykellynwaogu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodykellynwaogu&layout=compact&theme=radical" />
 </p>
 
 ## 🎯 Currently Working On  
 - Learning **Python & Flask**  
-- Building an **age input type and a unity converter**  
+- Building an **age input type**  
 - Exploring **frontend development**  
 
 ## 📜 Certifications  
@@ -29,4 +29,4 @@ When I'm not coding, I'm either playing chess or exploring new ways to make my c
 
 ## 🌐 Connect with Me  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/MelodyKellyN?t=GZdS81yYSapdjeSD8pB_0w&s=09)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melodykellynwaogu_/profilecard/?igsh=aXNrN3B6Y3MxbWIz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melodykellynwaogu_/profilecard/?igsh=aXNrN3B6Y3MxbWIz)am.com/melodykprofileca
