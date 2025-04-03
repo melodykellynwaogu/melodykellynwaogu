@@ -26,10 +26,6 @@ I love bringing designs to life with **HTML, CSS, and JavaScript**. I’m passio
 🔗 [Live Demo](https://melodykellynwaogu.github.io/login-waddle)  
 📌 **Tech Used:** HTML, CSS  
 
-### 2️⃣ **Gitches**  
-🔗 [Live Demo](https://melodykellynwaogu.github.io/gitches)  
-📌 **Tech Used:** HTML, CSS  
-
 ## 📊 GitHub Stats  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=melodykellynwaogu&show_icons=true&theme=radical" />
