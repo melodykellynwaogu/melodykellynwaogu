@@ -16,12 +16,12 @@ I love bringing designs to life with **HTML, CSS, and JavaScript**. I’m passio
 
 ## 📌 What I'm Currently Working On  
 - 🌱 Learning **JavaScript & React**  
-- 💻 Building a **personal portfolio website**  
+- 💻 Working a **Team Project**  
 - 🎨 Exploring **modern frontend frameworks**  
 
 ## 📜 Certifications  
 ✅ **Responsive Web Design** – FreeCodeCamp  
-✅ **JavaScript Algorithms & Data Structures** – FreeCodeCamp _(In Progress)_  
+✅ **JavaScript Algorithms & Data Structures**  
 
 ## 🔥 Featured Projects  
 ### 1️⃣ **Login Form**  
