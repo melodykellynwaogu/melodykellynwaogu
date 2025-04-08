@@ -14,6 +14,11 @@ I love bringing designs to life with **HTML, CSS, and JavaScript**. I’m passio
   <img src="https://img.shields.io/badge/Responsive_Design-%23007ACC.svg?style=for-the-badge&logo=csswizardry&logoColor=white" />
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 </p>
 
 ## 📌 What I'm Currently Working On  
