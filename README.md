@@ -2,7 +2,7 @@
 
 ![API Animation](https://github.com/TAJ2003/TAJ2003/blob/main/api.gif)
 
-🚀 **Frontend Developer** | 🎨 UI/UX Enthusiast | 🎯 Lifelong Learner  
+🚀 **Website Developer** | 🎨 UI/UX Enthusiast | 🎯 Lifelong Learner  
 
 I love bringing designs to life with **HTML, CSS, and JavaScript**. I’m passionate about creating **responsive**, **accessible**, and **visually stunning** websites that provide seamless user experiences.  
 
