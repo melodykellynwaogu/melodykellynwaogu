@@ -41,6 +41,8 @@ I love bringing designs to life with **HTML, CSS, and JavaScript**. I’m passio
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodykellynwaogu&layout=compact&theme=radical" />
 </p>
 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melodykelly123_)](https://wakatime.com/@melodykelly123_)
+
 ## 🎉 Fun Fact  
 I love **playing chess** 🏆 and **experimenting with new UI/UX trends** to enhance user experience!  
 
