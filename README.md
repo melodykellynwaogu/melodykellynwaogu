@@ -4,7 +4,7 @@
 
 🚀 **Python Developer** | 🛠️ Backend Enthusiast | 🌟 Clean Code Advocate  
 
-I’m passionate about building reliable backend systems using **Python**, developing efficient **APIs**, and exploring scalable solutions with frameworks like **Django**, **Flask**, and **FastAPI**. I enjoy writing clean, maintainable code and occasionally bringing ideas to life with frontend tools when needed.
+I’m passionate about building reliable Frontend and somtimes backend systems using **Python**, developing efficient **APIs**, and exploring scalable solutions with frameworks like **Django**, **Flask** **React**, and **FastAPI**. I enjoy writing clean, maintainable code and occasionally bringing ideas to life with frontend tools when needed.
 
 ---
 
@@ -38,7 +38,6 @@ I’m passionate about building reliable backend systems using **Python**, devel
 ## 📜 Certifications  
 - ✅ **Responsive Web Design** – FreeCodeCamp  
 - ✅ **JavaScript Algorithms & Data Structures** – FreeCodeCamp  
-- ✅ **Python Backend Fundamentals** *(in progress)*
 
 ---
 
@@ -47,7 +46,7 @@ I’m passionate about building reliable backend systems using **Python**, devel
 🔗 [Live Demo](https://melodykellynwaogu.github.io/login-waddle)  
 📌 **Tech Used:** HTML, CSS  
 
-*(More backend-focused projects coming soon...)*
+
 
 ---
 
@@ -66,7 +65,7 @@ I’m passionate about building reliable backend systems using **Python**, devel
 ---
 
 ## 🎯 Fun Fact  
-I love **chess** ♟️ and enjoy debugging backend issues as much as solving puzzles on a board!
+I love **chess** ♟️ and enjoy building clean Website. And most times Engage in math solution.!
 
 ---
 
