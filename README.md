@@ -5,6 +5,9 @@
 🚀 **Python Developer** | 🛠️ Backend Enthusiast | 🌟 Clean Code Advocate  
 
 I’m passionate about building reliable frontend and backend systems using **Python**, developing efficient **APIs**, and exploring scalable solutions with frameworks like **Django**, **Flask**, **FastAPI**, and **React**.
+# Hello, I'm Melody!
+
+![Coding GIF](https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxwa.gif)
 
 ---
 
@@ -70,6 +73,8 @@ I’m passionate about building reliable frontend and backend systems using **Py
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=melodykellynwaogu&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodykellynwaogu&layout=compact&theme=radical" />
+
+  ![Repositories Badge](https://img.shields.io/badge/Public%20Repositories-34-blue)
 </p>
 
 ---
