@@ -41,7 +41,11 @@ I’m passionate about building reliable frontend and backend systems using **Py
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications
+
+[![Responsive Web Design Certificate](https://i.postimg.cc/8kR6MBys/Screenshot-20250505-120656.png)](https://freecodecamp.org/certification/melodykellynwaogu/responsive-web-design)
+
+[View Certificate](https://freecodecamp.org/certification/melodykellynwaogu/responsive-web-design)
 - ✅ **Responsive Web Design** – FreeCodeCamp  
 - ✅ **JavaScript Algorithms & Data Structures** – FreeCodeCamp  
 
