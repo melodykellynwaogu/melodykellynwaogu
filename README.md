@@ -92,6 +92,7 @@ I love **chess** ♟️ and enjoy building clean and purposeful backend apps!
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/MelodyKellyN?t=GZdS81yYSapdjeSD8pB_0w&s=09)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melodykellynwaogu_/profilecard/?igsh=aXNrN3B6Y3MxbWIz)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melodykellynwaogu)
+[![Bluesky](https://img.shields.io/badge/Bluesky-000000?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/melodykellynwaogu.bsky.social)
 
 ---
 
