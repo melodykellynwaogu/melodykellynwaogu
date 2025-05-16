@@ -4,8 +4,7 @@
 
 🚀 **Python Developer** | 🛠️ Backend Enthusiast | 🌟 Clean Code Advocate  
 
-I’m passionate about building reliable frontend and backend systems using **Python**, developing efficient **APIs**, and exploring scalable solutions with frameworks like **Django**, **Flask**, **FastAPI**, and **React**.
-# Hello, I'm Melody!
+I’m passionate about building reliable frontend and backend systems using **Python**, developing efficient **APIs**, and exploring scalable solutions with frameworks like **Django**, **Flask**, **FastAPI**. As much as coding and learning, I observe every little thing that for some seems impossible, but with time will become **POSSIBLE** 🎯. My new home 💻 and pride ☕.
 
 ![Coding GIF](https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxwa.gif)
 
@@ -13,10 +12,14 @@ I’m passionate about building reliable frontend and backend systems using **Py
 
 ## 🧰 Languages & Tools  
 <p align="left">
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img 
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
@@ -42,8 +45,6 @@ I’m passionate about building reliable frontend and backend systems using **Py
 ---
 
 ## 📜 Certifications
-
-[![Responsive Web Design Certificate](https://i.postimg.cc/8kR6MBys/Screenshot-20250505-120656.png)](https://freecodecamp.org/certification/melodykellynwaogu/responsive-web-design)
 
 [View Certificate](https://freecodecamp.org/certification/melodykellynwaogu/responsive-web-design)
 - ✅ **Responsive Web Design** – FreeCodeCamp  
@@ -78,7 +79,7 @@ I’m passionate about building reliable frontend and backend systems using **Py
   <img src="https://github-readme-stats.vercel.app/api?username=melodykellynwaogu&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodykellynwaogu&layout=compact&theme=radical" />
 
-  ![Repositories Badge](https://img.shields.io/badge/Public%20Repositories-34-blue)
+  ![Repositories Badge](https://img.shields.io/badge/Public%20Repositories-36-blue)
 </p>
 
 ---
