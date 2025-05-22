@@ -79,7 +79,7 @@ I’m passionate about building reliable frontend and backend systems using **Py
   <img src="https://github-readme-stats.vercel.app/api?username=melodykellynwaogu&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodykellynwaogu&layout=compact&theme=radical" />
 
-  ![Repositories Badge](https://img.shields.io/badge/Public%20Repositories-36-blue)
+  ![Repositories Badge](https://img.shields.io/badge/Public%20Repositories-38-blue)
 </p>
 
 ---
