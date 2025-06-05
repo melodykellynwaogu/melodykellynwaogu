@@ -1,5 +1,3 @@
-<!-- Melody Kelly Nwaogu | Profile README -->
-
 <h1 align="center">
   Hi, I'm Melody — A Web Developer Student! 👋🐍
 </h1>
@@ -26,7 +24,7 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
   <a href="https://freecodecamp.org/certification/melodykellynwaogu/responsive-web-design">
     <img src="https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-1abc9c?style=flat-square&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp Responsive Web Design"/>
   </a>
-  <img src="https://img.shields.io/badge/FreeCodeCamp-JavaScript%20Algorithms%20%26%20Data%20Structures-323330?style=flat-square&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp JavaScript Algorithms & Data Structures"/>
+  
   <img src="https://img.shields.io/badge/Yolo%20Merge-%F0%9F%9A%80-brightgreen?style=flat-square" alt="Yolo Merge"/>
   <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-blue?style=flat-square" alt="Pull Shark"/>
   <img src="https://img.shields.io/badge/Pair%20Extraordinaire-%F0%9F%A4%9D-ff69b4?style=flat-square" alt="Pair Extraordinaire"/>
@@ -61,12 +59,11 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
 
 ---
 
-## 🚧 Currently Building
+## 🚧 Currently Working with 
 
 - ⚙️ REST APIs using <b>FastAPI</b> + <b>PostgreSQL</b>
-- 📦 Backend services with <b>Django & Celery</b>
+- 📦 Backend services with <b>Django & Flask</b>
 - 🧪 Testing APIs with <b>Postman</b>
-- 🐳 Dockerizing projects for deployment
 
 ---
 
