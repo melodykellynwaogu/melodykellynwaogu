@@ -70,25 +70,15 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
 
 ---
 
-## 💡 Projects
-
-### 🧮 Turbo Python Calculator  
-🔗 [Live Demo](https://turbo-python-calculator.onrender.com)  
-📌 *Python, Flask*
-
-### ✍️ Python Blog Page  
-🔗 [Live Demo](https://python-blog-page.onrender.com)  
+## 💡 Projects 
+One of my favorites project.
+Anchor Engine.
+### ✍️ Search Engine 
+🔗 [View](https://meg-browser.onrender.com/)  
 📌 *Python, Flask, Jinja2*
-
-### ✅ Mini List App  
-🔗 [Live Demo](https://mini-list-app.onrender.com)  
-📌 *Python, Flask, SQLite, HTML/CSS*
-
 ---
 
-## ⏳ WakaTime Stats
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melodykelly123_)](https://wakatime.com/@melodykelly123_)  
+## ⏳ WakaTime Stats  
 <img src="https://wakatime.com/badge/user/1ed5c3b1-015d-4589-8d35-3cd9b5db607a.svg" alt="Wakatime Badge" height="20"/>
 
 ---
