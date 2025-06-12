@@ -6,19 +6,18 @@
   <img src="https://github.com/TAJ2003/TAJ2003/blob/main/api.gif" width="250" alt="API Animation"/>
 </p>
 
-<p align="center">
+<p align="center" font="Georgia">
   🚀 <b>Python Developer</b> | 🛠️ Backend Enthusiast | 🌟 Clean Code Advocate
 </p>
 
----
 
-## 🌱 About Me
+ <b>🌱 About Me<b>
 
 Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer from a non-tech family, forging my own path in the world of code. My tech journey hasn’t been easy—facing challenges like learning with a slow PC and limited resources—but the support of family and determination to succeed keeps me moving forward. I believe every obstacle is an opportunity to grow, and I’m living proof that persistence pays off. If you’re struggling, remember: there’s always a way out. 🚀
 
----
 
-## 🏆 Achievements & Certifications
+
+<strong align="center">🏆 Achievements & Certifications</strong>
 
 <p>
   <a href="https://freecodecamp.org/certification/melodykellynwaogu/responsive-web-design">
@@ -30,15 +29,8 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
   <img src="https://img.shields.io/badge/Pair%20Extraordinaire-%F0%9F%A4%9D-ff69b4?style=flat-square" alt="Pair Extraordinaire"/>
 </p>
 
----
 
-## 💡 My Motto
-
-> <b>“Do something that scares you every day 🎯”</b>
-
----
-
-## 🧰 Languages & Tools
+<b> 🧰 Languages & Tools <b>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
@@ -51,68 +43,52 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/>
 </p>
 
----
 
-## 🚧 Currently Working with 
+<b>🚧 Currently Working on<b>
 
-- ⚙️ REST APIs using <b>FastAPI</b> + <b>PostgreSQL</b>
-- 📦 Backend services with <b>Django & Flask</b>
-- 🧪 Testing APIs with <b>Postman</b>
+- 📦 Backend services with <b>Flask</b>
+- 🗃️ Search Engine with <b>Flask<b>
 
----
 
-## 💡 Projects 
-One of my favorites project.
-Anchor Engine.
-### ✍️ Search Engine 
-🔗 [View](https://meg-browser.onrender.com/)  
-📌 *Python, Flask, Jinja2*
----
-
-## ⏳ WakaTime Stats  
-<img src="https://wakatime.com/badge/user/1ed5c3b1-015d-4589-8d35-3cd9b5db607a.svg" alt="Wakatime Badge" height="20"/>
-
----
-
-## 📊 GitHub Stats
+<b>📊 GitHub Stats<b>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=melodykellynwaogu&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodykellynwaogu&layout=compact&theme=radical" height="165"/>
-  <img src="https://img.shields.io/badge/Public%20Repositories-38-blue?style=flat-square" height="20"/>
+  <img src="https://img.shields.io/badge/Public%20Repositories-46-blue?style=flat-square" height="20"/>
+  <img src="https://wakatime.com/badge/user/1ed5c3b1-015d-4589-8d35-3cd9b5db607a.svg" alt="Wakatime Badge" height="20"/>
 </p>
 
----
+* 💡One of my favorites project.
+Anchor Engine.
+ <b>✍️ Search Engine<b>
+ [View](https://meg-browser.onrender.com/)
 
-## 🎯 Fun Fact
 
-I love **chess** ♟️ and enjoy building clean and purposeful backend apps!
-
----
-
-## 🤝 Let’s Collaborate!
+<b>🤝 Let’s Collaborate!<b>
 
 [![Email](https://img.shields.io/badge/Email-Contact-1abc9c?style=flat-square&logo=gmail&logoColor=white)](mailto:kellynwaogumelody@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/melodykellynwaogu_/profilecard/?igsh=aXNrN3B6Y3MxbWIz)
 
----
+<b>🌐 Reach out to Me<b>
 
-## 🌐 Connect With Me
-
-[![Portfolio Connect](https://img.shields.io/badge/Portfolio-Connect-8e44ad?style=flat-square&logo=about-dot-me&logoColor=white)](#)
+[![Portfolio Connect](https://img.shields.io/badge/Portfolio-Connect-8e44ad?style=flat-square&logo=about-dot-me&logoColor=white)](melodykellynwaogu.vercel.app)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/MelodyKellyN?t=GZdS81yYSapdjeSD8pB_0w&s=09)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/melodykellynwaogu_/profilecard/?igsh=aXNrN3B6Y3MxbWIz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/melodykellynwaogu)
 [![Bluesky](https://img.shields.io/badge/Bluesky-000000?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/melodykellynwaogu.bsky.social)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=melodykellynwaogu.melodykellynwaogu)
 
----
+<b>🎯 Fun Fact<b>
+
+I love **chess** ♟️ and enjoy building clean and purposeful backend apps!
 
 <p align="center">
   <b>“The best error message is the one that never shows up.”</b> – Thomas Fuchs
