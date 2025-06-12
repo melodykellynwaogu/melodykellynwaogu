@@ -79,7 +79,7 @@ Anchor Engine.
 
 <b>🌐 Reach out to Me<b>
 
-[![Portfolio Connect](https://img.shields.io/badge/Portfolio-Connect-8e44ad?style=flat-square&logo=about-dot-me&logoColor=white)](melodykellynwaogu.vercel.app)
+[![Portfolio Connect](https://img.shields.io/badge/Portfolio-Connect-8e44ad?style=flat-square&logo=about-dot-me&logoColor=white)](https://melodykellynwaogu.vercel.app/)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/MelodyKellyN?t=GZdS81yYSapdjeSD8pB_0w&s=09)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/melodykellynwaogu_/profilecard/?igsh=aXNrN3B6Y3MxbWIz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/melodykellynwaogu)
