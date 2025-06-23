@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Melody — A Web Developer Student! 👋🐍
+  Hi, I'm Melody — Frontend Web Developer | JavaScript! 👋☕
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" font="Georgia">
-  🚀 <b>Python Developer</b> | 🛠️ Backend Enthusiast | 🌟 Clean Code Advocate
+  🚀 <b>Frontend Web Developer</b> | 🛠️ Curiosity Driven | 🌟 Constant Thinking
 </p>
 
 
@@ -32,11 +32,10 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
 
 <h2>🧰 Languages & Tools</h2>
 
-<!-- Programming Languages -->
+
 <h3>💻 Programming Languages</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="javascript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS3"/>
 </p>
@@ -44,46 +43,29 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
 <!-- Frameworks & Libraries -->
 <h3>🧱 Frameworks & Libraries</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="36" alt="SQLAlchemy"/>
-</p>
-
-<!-- Databases -->
-<h3>🗄️ Databases</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" alt="SQLite"/>
-</p>
-
-<!-- Styling Tools -->
-<h3>🎨 Styling Tools</h3>
-<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="36" alt="jQuery"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" alt="Tailwind CSS"/>
 </p>
 
-<!-- Developer Tools -->
 <h3>🛠️ Developer Tools</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" alt="GitHub"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" alt="VS Code"/>
 </p>
-
 
 <h3>🚀 Deployment Platforms</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" alt="GitHub Pages"/>
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" alt="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="36" alt="Netlify"/>
 
 <b>🚧 Currently Working on<b>
 
-- 📦 Backend services with <b>Flask</b>
-- 🗃️ Search Engine with <b>Flask<b>
+- 📦 Frontend web's with <b>HTML/CSS and JavaScript</b>
+- 🗃️ Search Engine with <b>Flask<b>. but improving with JS and more of Ui's
 
 
 <b>📊 GitHub Stats<b>
@@ -91,7 +73,6 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=melodykellynwaogu&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodykellynwaogu&layout=compact&theme=radical" height="165"/>
-  <img src="https://img.shields.io/badge/Public%20Repositories-46-blue?style=flat-square" height="20"/>
   <img src="https://wakatime.com/badge/user/1ed5c3b1-015d-4589-8d35-3cd9b5db607a.svg" alt="Wakatime Badge" height="20"/>
 </p>
 
@@ -117,7 +98,7 @@ Anchor Engine.
 
 <b>🎯 Fun Fact<b>
 
-I love **chess** ♟️ and enjoy building clean and purposeful backend apps!
+I love **chess** ♟️ and enjoy building clean and purposeful Frontend apps!
 
 <p align="center">
   <b>“The best error message is the one that never shows up.”</b> – Thomas Fuchs
