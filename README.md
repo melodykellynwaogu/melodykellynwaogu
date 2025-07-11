@@ -79,8 +79,7 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
 * 💡One of my favorites project.
 Anchor Engine.
  <b>✍️ Search Engine<b>
- [Anchor vs1.0](https://meg-browser.onrender.com/)
- Version 1.1 [Anchor vs1.1](https://anchor-mvgw.onrender.com)
+ [Anchor](https://meg-browser.onrender.com/)
 
 
 <b>🤝 Let’s Collaborate!<b>
