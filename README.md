@@ -76,11 +76,6 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
   <img src="https://wakatime.com/badge/user/1ed5c3b1-015d-4589-8d35-3cd9b5db607a.svg" alt="Wakatime Badge" height="20"/>
 </p>
 
-* 💡One of my favorites project.
-Anchor Engine.
- <b>✍️ Search Engine<b>
- [Anchor](https://meg-browser.onrender.com/)
-
 
 <b>🤝 Let’s Collaborate!<b>
 
