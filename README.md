@@ -43,8 +43,6 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
 <!-- Frameworks & Libraries -->
 <h3>🧱 Frameworks & Libraries</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="36" alt="jQuery"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" alt="Tailwind CSS"/>
 </p>
