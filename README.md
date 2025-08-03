@@ -13,7 +13,14 @@
 
  <b>🌱 About Me<b>
 
-Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer from a non-tech family, forging my own path in the world of code. My tech journey hasn’t been easy—facing challenges like learning with a slow PC and limited resources—but the support of family and determination to succeed keeps me moving forward. I believe every obstacle is an opportunity to grow, and I’m living proof that persistence pays off. If you’re struggling, remember: there’s always a way out. 🚀
+### 🌱 About Me
+
+Hey there! I’m Melody Kelly Nwaogu—a self-taught frontend developer turning ideas into beautiful, functional web experiences. Coming from a non-tech background, I’ve built my way into the dev world with curiosity, creativity, and relentless persistence.
+
+My journey started with limited resources, but now I’m equipped, motivated, and always learning. I believe that technology should solve real problems and that great design goes beyond pixels—it creates impact.
+
+Currently diving into **React**, expanding my frontend powers, and crafting tools that users actually love. Whether it’s a bill-splitting app or a voice-powered interface, I thrive on building purposeful, user-friendly solutions that make a difference.
+ 🚀
 
 
 
@@ -36,6 +43,7 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
 <h3>💻 Programming Languages</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="javascript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS3"/>
 </p>
@@ -45,6 +53,8 @@ Hey there! I’m Melody Kelly Nwaogu, a passionate self-taught web developer fro
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/>
+
 </p>
 
 <h3>🛠️ Developer Tools</h3>
