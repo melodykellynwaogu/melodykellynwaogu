@@ -82,6 +82,8 @@ Currently diving into **React**, expanding my frontend powers, and crafting tool
   <img src="https://github-readme-stats.vercel.app/api?username=melodykellynwaogu&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodykellynwaogu&layout=compact&theme=radical" height="165"/>
   <img src="https://wakatime.com/badge/user/1ed5c3b1-015d-4589-8d35-3cd9b5db607a.svg" alt="Wakatime Badge" height="20"/>
+
+  [![Check out melodykellynwaogu's profile on stardev.io](https://stardev.io/developers/melodykellynwaogu/badge/languages/global.svg)](https://stardev.io/developers/melodykellynwaogu)
 </p>
 
 
