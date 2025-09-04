@@ -11,7 +11,7 @@
 </p>
 
 
- <b>🌱 About Me<b>
+
 
 ### 🌱 About Me
 
