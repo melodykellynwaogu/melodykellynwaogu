@@ -14,7 +14,7 @@ I’m **Melody Kelly**, a self-taught **frontend developer** focused on building
 
 My current focus includes:
 
-- ⚛️ **React** – building interactive and component-based UIs  
+- ⚛️ **React** **TypeScript**  – building interactive and component-based UIs  
 - 🌐 **Frontend Development** – HTML, CSS, JavaScript, and modern tooling  
 - 🧩 **Problem Solving** – turning ideas and requirements into working interfaces  
 
