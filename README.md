@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/melodykellynwaogu?label=Follow&style=social" alt="GitHub Followers">
   </a>
   <a href="https://syrma.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Deluxers-blueviolet?style=flat-square&logo=vercel" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Syrma-blueviolet?style=flat-square&logo=vercel" alt="Portfolio">
   </a>
 </p>
 
