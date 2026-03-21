@@ -8,7 +8,7 @@
   <a href="https://github.com/melodykellynwaogu">
     <img src="https://img.shields.io/github/followers/melodykellynwaogu?label=Follow&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://deluxers.vercel.app">
+  <a href="https://syrma.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Deluxers-blueviolet?style=flat-square&logo=vercel" alt="Portfolio">
   </a>
 </p>
@@ -37,11 +37,11 @@ I am a **Software Engineer** dedicated to crafting high-performance web applicat
 
 ### 🌟 Featured Project: Deluxers
 
-**[Deluxers](https://deluxers.vercel.app)** is a high-speed search engine interface designed for modern efficiency. 
+**[Syrma]("https://syrma.vercel.app/")** Syrma is an AI chatbot designed to help with everyday questions, writing, learning, and code tasks. 
 
 * **Engineering Impact:** Focused on low-latency response times and a minimalist, distraction-free UI.
 * **Tech Stack:** React, Advanced CSS/Tailwind, and custom search algorithms.
-* **Key Feature:** Implemented intelligent query handling to bridge the gap between user intent and search results.
+* **Key Feature:** It is designed to understand, operate across, and combine different types of information.
 
 
 
