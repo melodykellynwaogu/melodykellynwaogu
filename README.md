@@ -43,15 +43,6 @@ Frontend Engineer passionate about building responsive, modern, and user-focused
 
 
 
-## 🌟 Featured Projects
-
-### 🔎 Anchor
-Modern search engine interface focused on speed, clean UI, and user experience.
-
-**Tech Stack:** React, JavaScript, CSS
-
-
-
 ### 🧰 Digital Toolbox
 A collection of productivity tools including notes, calculators, converters, and utility apps.
 
