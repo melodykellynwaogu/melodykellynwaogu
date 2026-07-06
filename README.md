@@ -13,18 +13,18 @@
 
 
 
-## 🚀 About Me
+# About Me
 
 Frontend Engineer passionate about building responsive, modern, and user-focused web applications. I enjoy transforming ideas into interactive digital experiences using React, JavaScript, and modern frontend technologies.
 
-- ⚛️ Building scalable React applications
-- 🎨 Creating responsive and accessible user interfaces
-- 🚀 Focused on performance and clean UI architecture
-- 📚 Continuously learning and improving through real-world projects
+- Building scalable React applications
+- Creating responsive and accessible user interfaces
+- Focused on performance and clean UI architecture
+- Continuously learning and improving through real-world projects
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -43,14 +43,14 @@ Frontend Engineer passionate about building responsive, modern, and user-focused
 
 
 
-### 🧰 Digital Toolbox
-A collection of productivity tools including notes, calculators, converters, and utility apps.
+### Family Fair
+An ecommerce experience focused on clean product discovery, fast browsing and responsive shopping across every device.
 
 **Tech Stack:** React, JavaScript, Tailwind CSS
 
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melodykellynwaogu&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -59,7 +59,7 @@ A collection of productivity tools including notes, calculators, converters, and
 
 
 
-## ⚡ Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://github.com/melodykellynwaogu" target="blank">
